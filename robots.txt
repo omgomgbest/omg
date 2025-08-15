@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omgomgbest.github.io/omg/sitemap.xml
